@@ -1,0 +1,56 @@
+.bild {
+      width: 100px; 
+      height: auto; 
+    }
+    
+    .storlek1 {
+      width: 100%;
+    height: auto; 
+    }
+    
+    .storlek2 {
+      width: 300px; 
+    }
+    
+    .storlek3 {
+      width: 535px; 
+    }
+
+    
+   body {background-color: rgb(58, 56, 56);}
+   
+.jersey-25-regular {
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:10vw }
+
+.raleway-uniquifier {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:100;
+  font-style: normal;
+  font-size:10vw }
+
+    h1,h2,h3,h4{font-family:"jersey 25" ;color: rgb(220, 109, 109);style:"font-size:10vw"
+   }
+
+   p,ul,ol {font-family:"raleway" ;color: #c3b9b9;style:"font-size:10vw"
+   }
+
+   h3 { text-align: center; background-color: rgb(0, 3, 0);style:"font-size:10vw"
+   }
+
+   p{text-align: justify; style:"font-size:10vw"
+  }
+    
+
+
+div {
+      position: float left;
+      background-color: rgba(211, 211, 211, 0.425);
+      width: 200px;
+      border: 15px solid rgb(174, 63, 67);
+      padding: 20px;
+      margin: 20px;
+    }
